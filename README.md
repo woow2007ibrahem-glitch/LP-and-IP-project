@@ -27,13 +27,13 @@ git clone https://github.com/woow2007ibrahem-glitch/LP-and-IP-project.git
 cd LP-and-IP-project
 
 # Install dependencies
-pip install numpy pandas matplotlib scipy
+pip install numpy pandas matplotlib 
 ```
 
 ### Option 2: Google Colab
 
 ```python
-pip install numpy pandas matplotlib scipy
+pip install numpy pandas matplotlib 
 ```
 
 Then upload your files or clone the repository in Colab.
