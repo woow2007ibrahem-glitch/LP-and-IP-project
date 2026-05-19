@@ -38,22 +38,30 @@ pip install numpy pandas matplotlib scipy
 
 Then upload your files or clone the repository in Colab.
 
-## Usage
+## How to Run
+
+### On Local Machine
 
 ```bash
-python main.py
+# Start Jupyter Notebook
+jupyter notebook
+
+# Open Codeing.ipynb
+# Then click "Run All" or run cells one by one
 ```
 
-Or in Google Colab:
+### On Google Colab
 
 ```python
 # Upload files or clone repository
 git clone https://github.com/woow2007ibrahem-glitch/LP-and-IP-project.git
 %cd LP-and-IP-project
 
-# Run the project
-%run main.py
+# Open Codeing.ipynb in Colab
 ```
+
+Or simply upload `Codeing.ipynb` to Google Colab directly.
+
 
 ## How It Works
 
