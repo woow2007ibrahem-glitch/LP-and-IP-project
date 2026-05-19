@@ -33,7 +33,7 @@ pip install numpy pandas matplotlib scipy
 ### Option 2: Google Colab
 
 ```python
-!pip install numpy pandas matplotlib scipy
+pip install numpy pandas matplotlib scipy
 ```
 
 Then upload your files or clone the repository in Colab.
@@ -48,7 +48,7 @@ Or in Google Colab:
 
 ```python
 # Upload files or clone repository
-!git clone https://github.com/woow2007ibrahem-glitch/LP-and-IP-project.git
+git clone https://github.com/woow2007ibrahem-glitch/LP-and-IP-project.git
 %cd LP-and-IP-project
 
 # Run the project
